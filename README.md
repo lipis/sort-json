@@ -6,3 +6,5 @@
 - ignore `.ignore` files
 - Should work like https://sortjson.com/
 - No configration files
+- Easily integratdable with commit hooks
+- Prettier could run on top of it.
