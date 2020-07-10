@@ -1,5 +1,7 @@
 # sort-json
 
+> Automatically sort all JSON by name before commiting to the repo (hooks, npm, yarn, etc)
+
 ## requirements
 - NPM package
 - SHould sort a list of `.json` or all in the project
